@@ -1,8 +1,26 @@
-# React + Vite
+### Project Title:Restaurant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Live Preview: 
+https://restaurant-website-nu-one.vercel.app/
 
-Currently, two official plugins are available:
+### Project Description
+This project is a restaurant website.Initially, only the homepage was required, but the entire site has been developed to showcase a complete user experience. It includes multiple pages such as the
+* *About* 
+* *Portfolio*
+* *Clients*
+* *Blog*
+* *Contact*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Technologies and Frameworks
+The following frameworks and libraries were used in this project:
+
+* *React* : Core library for building the user interface.
+* *React Router DOM* : Library for managing routing and navigation.
+* *React Slick* : Carousel component for React, used for image sliders.
+* *React TailwindCSS Datepicker* : A date picker component for TailwindCSS and React.
+
+
+### Development Tools
+* *Vite* : Development environment for faster builds.
+* *TailwindCSS* : CSS framework for styling.
+restaurant-website-nu-one.vercel.app
